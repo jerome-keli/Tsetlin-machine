@@ -1,5 +1,5 @@
 # Tsetlin-machine
-Overview
+## Overview
 
 This notebook provides an in-depth exploration of key concepts in artificial intelligence(Tsetlin machine), focusing on data analysis, machine learning model building and evaluation. It includes step-by-step explanations, visualizations and code to guide readers through the assessment process.
 
