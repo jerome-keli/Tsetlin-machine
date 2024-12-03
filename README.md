@@ -1,15 +1,14 @@
-# Tsetlin-machine
+# Titanic Survival Prediction Project
+
 ## Overview
 
-This notebook provides an in-depth exploration of key concepts in artificial intelligence(Tsetlin machine), focusing on data analysis, machine learning model building and evaluation. It includes step-by-step explanations, visualizations and code to guide readers through the assessment process.
+This project analyzes the Titanic dataset. It is a historical dataset documenting one of the most infamous shipwrecks in history. The goal is to explore factors influencing survival and build a machine learning model to predict passenger survival.
 
-## Purpose
+## About the Dataset
 
-The primary goal of this notebook is to:
-
-* Demonstrate proficiency in handling AI-related tasks.
-* Present a structured approach to solving data-driven problems.
-* Showcase the ability to analyze and interpret results effectively.
+On April 15, 1912, the Titanic sank after colliding with an iceberg, leading to the loss of 1,502 lives from a total of 2,224 passengers and crew. The dataset highlights survival factors that varied among different groups.
+Purpose:
+To analyze the impact of variables such as age, gender, and class on survival and predict survival outcomes for passengers.
 
 ## Key Features
 
